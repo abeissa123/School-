@@ -1,0 +1,6 @@
+{
+  "name": "GarouaSchool",
+  "description": "L'école intelligente au bout des doigts - Application de gestion de scolarité",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
